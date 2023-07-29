@@ -16,9 +16,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/technology map.jpg";
+import image from "../images/motion-background.jpg";
 
-const imageAltText = "technology map with human hand on it";
+const imageAltText = "purple and blue abstract background";
 
 /**
  * Sort description that expands on your title on the Home component.
